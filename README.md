@@ -1,2 +1,2 @@
 # JS
-learning
+learning JS, Python
